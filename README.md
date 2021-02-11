@@ -1,2 +1,3 @@
+.idea/
 # mulai-join
 catatan 
